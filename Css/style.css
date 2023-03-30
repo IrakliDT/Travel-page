@@ -474,6 +474,7 @@ video#video {
   position: relative;
   width: 1100px;
   height: auto;
+  margin-left: 10%;
 }
 
 .owl-img-par img {
