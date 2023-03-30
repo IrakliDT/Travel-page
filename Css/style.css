@@ -6,7 +6,6 @@
 }
 body {
   font-family: 'Montserrat', sans-serif;
-  overflow-x: hidden;
 }
 
 a{
@@ -80,9 +79,9 @@ nav li a {
 @media (max-width: 800px) {
   .fixed {
     background-color: rgba(46, 80, 98, 0.8);
-    margin-left: -10%;
     flex-direction: column;
     height: 14%;
+    width: auto;
   }
   a{
     opacity: 0;
@@ -214,7 +213,7 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 35px 100px 0;
+  padding: 35px 100px;
   animation: 1s fadein 0.5s forwards;
   opacity: 0;
 }
@@ -468,7 +467,7 @@ video#video {
 .owl-carousel {
   display: block;
   overflow: hidden;
-  overflow-x: hidden;
+  width: 100%;
 }
 
 .owl-img-par {
@@ -562,3 +561,4 @@ footer p {
     font-size: 30px;
   }
 }
+
