@@ -6,7 +6,9 @@
 }
 body {
   font-family: 'Montserrat', sans-serif;
+  overflow-x: hidden;
 }
+
 a{
   opacity: 0.2;
 }
@@ -78,7 +80,7 @@ nav li a {
 @media (max-width: 800px) {
   .fixed {
     background-color: rgba(46, 80, 98, 0.8);
-    margin-left: -6%;
+    margin-left: -10%;
     flex-direction: column;
     height: 14%;
   }
@@ -229,7 +231,7 @@ header h2 {
 
 header nav {
   display: flex;
-  margin-right: -15px;
+  margin-right: -10px;
 }
 
 header nav li {
