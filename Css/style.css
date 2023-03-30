@@ -511,9 +511,11 @@ video#video {
 }
 @media (max-width: 800px) {
   .owl-img-par {
-    position: relative;
+     position: relative;
     width: 600px;
     height: auto;
+    padding: 0; 
+    margin: 0 auto;  
   }
 }
   
