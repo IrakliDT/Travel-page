@@ -8,5 +8,5 @@ The area is characterized by its dry climate sitting only 150â€“50 meters (490â€
 
 Vashlovani State Reserve is notable for its unique, badland-like areas of desert and semi-desert steppe vegetation and arid and deciduous forests. It is also home to the great canyon cliffs, known in the area as the "Sharp Walls", and the magnificent Alazani flood plains and forests.
 
-live site:https://magenta-chimera-882058.netlify.app/
+live site: https://voluble-cranachan-5d7701.netlify.app/
 
